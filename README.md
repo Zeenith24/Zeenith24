@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Zeenith24/harshit-ravi-portfolio"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-pixel--art%20%2B%20Pokko%20chatbot-ee5f2b?style=for-the-badge"></a>
+  <a href="https://harshitravi.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-pixel--art%20%2B%20Pokko%20chatbot-ee5f2b?style=for-the-badge"></a>
   <a href="https://www.linkedin.com/in/harshitravi24/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-harshitravi24-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
@@ -24,7 +24,7 @@ I turn complex data into things people can use: computer vision, deep learning a
 
 | Project | What it is |
 |---|---|
-| [**harshit-ravi-portfolio**](https://github.com/Zeenith24/harshit-ravi-portfolio) | My pixel-art portfolio, with **Pokko**, a RAG chatbot that answers questions about me from my own notes. Astro, Gemini embeddings, hybrid retrieval, streaming, guardrails and a regression test harness. |
+| [**harshit-ravi-portfolio**](https://github.com/Zeenith24/harshit-ravi-portfolio) ([live](https://harshitravi.vercel.app)) | My pixel-art portfolio, with **Pokko**, a RAG chatbot that answers questions about me from my own notes. Try asking it something. Astro, Gemini embeddings, hybrid retrieval, streaming, guardrails and a regression test harness. |
 | [**Dolge**](https://github.com/Zeenith24/Dolge) | Text-to-speech video pipeline: Edge TTS voice-overs and FFmpeg captions over background video. Produced 50 story-time videos. |
 | [**Smart Mirror**](https://github.com/Zeenith24/Smart-mirror) | An AI compliment mirror with webcam face detection and spoken replies, used by 100+ visitors. I led the hardware integration. |
 | [**Auto Shelf Restocker**](https://github.com/Zeenith24/pantry-tracker-using-ML) | Computer vision with OpenCV and YOLO that spots missing items on shelf photos and sends restock alerts. 90% accuracy. |
